@@ -1,6 +1,2 @@
-# "O amor é fogo que arde sem se ver, 8, coragem."
+# "O amor é fogo que arde sem se ver."
 MEDEIROS, Sophia
----
-TESTE LAZARO È LINDO
----
-Test
